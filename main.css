@@ -1,3 +1,20 @@
-img {
-border: 2px solid black;
+h1{
+    position: relative;
+    left: 100px;
+    
+}
+
+img{
+    position: relative;
+    left: 250px;
+    top: -90px;
+}
+
+table,td{
+    border:1px solid;
+    text-align:center;
+}
+table{
+    position: relative;
+    top: -70px;
 }
